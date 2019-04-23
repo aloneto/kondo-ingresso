@@ -35,6 +35,7 @@ public class Main {
 
 
 
+
         //tk1.printTiket();
 
         vip tk1Vip = new vip();
